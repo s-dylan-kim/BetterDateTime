@@ -4,7 +4,7 @@ An easy way to add unix timestamps to your discord messages. To use, simply wrap
 
 ex. {2023-02-14}
 
-###TODO
+### TODO
 - Relative Date/Time
 - More semantic/flexible Date/Time input
 - Support for editing messages
